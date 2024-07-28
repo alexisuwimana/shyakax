@@ -4,7 +4,6 @@ import Hero from './Components/Hero/Hero'
 import Services  from './Components/Services/Services'
 import Title from './Components/Title/Title'
 import About from './Components/About/About'
-import Testimonials from './Components/Testimonials/Testimonials'
 const App = () => {
   return (
     <div>
